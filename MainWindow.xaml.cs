@@ -96,6 +96,5 @@ namespace App_Cancella
         {
             ct3.Cancel();
         }
-
     }
 }
